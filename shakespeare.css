@@ -30,3 +30,17 @@
 .snout:{
     color:brown;
 }
+table,
+th,
+td
+{
+    border:6px solid blue;
+    border-collapse: collapase;
+    width:auto;
+    margin:left;
+    text-align:center;
+    padding: 23px;
+    background-color: blueviolet;
+    border-spacing:5px;
+}
+

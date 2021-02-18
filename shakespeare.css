@@ -50,4 +50,32 @@ td
     text-shadow:2px 2px red;
 
 }
+ul.navbar-horizontal li {
+    
+     float :left; 
+     color : black;
+     background-color:rgb(233, 137, 121)
+     }
+     ul.navbar-horizontal a {
+     display:block;
+     padding:8px;
+    }
+
+ 
+     ul.navbar-horizontal a:hover {
+     background-color: rgb(171, 180, 253);
+     color:white;
+ } 
+     list-style-type:horizontal{
+     margin: 0;
+     padding: 0;
+     }
+     ul.na
+ .positionofimage{
+     position:top;
+     right: 100px;
+ }
+ body{
+     background-image: url("")
+ }
 

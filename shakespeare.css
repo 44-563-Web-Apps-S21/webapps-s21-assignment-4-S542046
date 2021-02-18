@@ -46,4 +46,8 @@ td
     background-color: blueviolet;
     border-spacing:5px;
 }
+.name:hover{
+    text-shadow:2px 2px red;
+
+}
 
